@@ -1,0 +1,6 @@
+
+This is an ASCII text file.
+FILENAME: RT_github_test1.txt
+PURPOSE:  test item for GIT Hub tutorial
+
+Initial Creation Date:  2018-MAR-05, 16:20

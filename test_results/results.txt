@@ -1,0 +1,5 @@
+Files ..\test_results\TEST_001.txt and ..\test_results\TEST_001_expected.txt differ
+Files ..\test_results\TEST_002.txt and ..\test_results\TEST_002_expected.txt are identical
+Files ..\test_results\TEST_003.txt and ..\test_results\TEST_003_expected.txt are identical
+Files ..\test_results\TEST_004.txt and ..\test_results\TEST_004_expected.txt are identical
+Files ..\test_results\TEST_005.txt and ..\test_results\TEST_005_expected.txt are identical
